@@ -48,13 +48,3 @@ Sebelum memulai, pastikan Anda telah menginstal:
     streamlit run streamlit_chat_app.py
     ```
     Aplikasi akan terbuka otomatis di *browser* Anda. Masukkan kunci API Anda di kolom `Google AI API Key` yang terletak di *sidebar* untuk memulai percakapan.
-
-## Tampilan Aplikasi
-
-Berikut adalah contoh tampilan aplikasi yang sudah berjalan.
-
-![Screenshot Aplikasi Chatbot](https://www.contohgambar.com/chatbot-screenshot.png)
-
-## Tentang Proyek
-
-[cite_start]Proyek ini dikerjakan sebagai bagian dari program **Hacktiv8** dan didukung oleh **AI Opportunity Fund: Asia Pacific**, sebuah inisiatif kolaborasi dengan **AVPN** dan didukung oleh **Google.org** serta **Asian Development Bank**[cite: 4].
